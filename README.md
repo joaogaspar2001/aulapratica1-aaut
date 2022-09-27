@@ -1,1 +1,4 @@
-# aulapratica1-aaut
+# Aula Prática 1 - Aprendizagem Automática
+
+Autores:
+* João Marafuz Gaspar (96240)
