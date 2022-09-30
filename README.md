@@ -1,4 +1,4 @@
-# Aula Prática 1 - Aprendizagem Automática
+# 1st Practice Lecture - Machine Learning
 
-Autor:
+Author:
 * João Marafuz Gaspar (96240)
